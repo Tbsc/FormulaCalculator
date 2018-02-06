@@ -1,16 +1,11 @@
 package tbsc.factorial;
 
-import javax.swing.*;
 import java.math.BigInteger;
 
 /**
  * @author tbsc on 28/01/2018
  */
-public class Main extends JFrame {
-
-    public Main() {
-
-    }
+public class Main {
 
     public static void main(String[] args) {
         // Make sure user has given enough arguments
